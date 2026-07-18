@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vup_down_counter
+!s110 1750072245
+!i10b 1
+!s100 6dH5hLN]^E2FEm;=U1K<X0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IJJP3o]hUGO``10MZ3`zaB0
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Up_Down_Counter
+w1750072239
+8D:\Up_Down_Counter\up_down_counter.v
+FD:\Up_Down_Counter\up_down_counter.v
+!i122 0
+L0 2 45
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1750072245.000000
+!s107 D:\Up_Down_Counter\up_down_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Up_Down_Counter\up_down_counter.v|
+!i113 1
+o-work work
+tCvgOpt 0

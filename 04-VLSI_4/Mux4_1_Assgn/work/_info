@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Mux4_1_Assgn
+vMux4_1_Assgn
+Z1 !s110 1750238437
+!i10b 1
+!s100 ;iHbXg9eiK_A__66^:TWC0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IHW<l`j^STNMiFEl<XFBES0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1750238258
+8Mux4_1_Assgn.v
+FMux4_1_Assgn.v
+!i122 0
+L0 1 8
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1750238436.000000
+!s107 Mux4_1_Assgn.v|
+!s90 -reportprogress|300|Mux4_1_Assgn.v|
+!i113 1
+Z5 tCvgOpt 0
+n@mux4_1_@assgn
+vtb_Mux4_1_Assgn
+R1
+!i10b 1
+!s100 o7Jaj23g=W1?k]1ch_33i3
+R2
+IL=Wj2V^Wljadf@BG`i;lz1
+R3
+R0
+w1750238295
+8tb_Mux4_1_Assgn.v
+Ftb_Mux4_1_Assgn.v
+!i122 1
+L0 1 22
+R4
+r1
+!s85 0
+31
+!s108 1750238437.000000
+!s107 tb_Mux4_1_Assgn.v|
+!s90 -reportprogress|300|tb_Mux4_1_Assgn.v|
+!i113 1
+R5
+ntb_@mux4_1_@assgn

@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vfull_adder
+!s110 1750064515
+!i10b 1
+!s100 4Kza^`bcV;IFEzhUOoj8E3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IiZ@;fa`HNPY7EZCHbjH1c2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Full_Adder_Assign
+w1750064509
+8D:\Full_Adder_Assign\full_adder_assign.v
+FD:\Full_Adder_Assign\full_adder_assign.v
+!i122 0
+L0 1 6
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1750064515.000000
+!s107 D:\Full_Adder_Assign\full_adder_assign.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Full_Adder_Assign\full_adder_assign.v|
+!i113 1
+o-work work
+tCvgOpt 0

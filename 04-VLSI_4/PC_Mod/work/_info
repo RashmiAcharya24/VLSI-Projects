@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/PC_Mod
+vPC_Mod
+Z1 !s110 1750240810
+!i10b 1
+!s100 ^QF=;5]]45:z_?klOGc:_0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlXTkVAiRS`6kVK<]:5U4X3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1750239712
+8PC_Mod.v
+FPC_Mod.v
+!i122 2
+L0 1 14
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1750240810.000000
+!s107 tb_PC_Mod.v|PC_Mod.v|
+Z6 !s90 -reportprogress|300|PC_Mod.v|tb_PC_Mod.v|
+!i113 1
+Z7 tCvgOpt 0
+n@p@c_@mod
+vtb_PC_Mod
+R1
+!i10b 1
+!s100 l4FHa<i_Wk5FTNRXVn@ze2
+R2
+ITdEN8N53lCBY=:HzWWIMC2
+R3
+R0
+w1750240757
+8tb_PC_Mod.v
+Ftb_PC_Mod.v
+!i122 2
+L0 1 25
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_PC_Mod.v|PC_Mod.v|
+R6
+!i113 1
+R7
+ntb_@p@c_@mod

@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Full_Adder_Assign
+vfull_adder
+!s110 1750064805
+!i10b 1
+!s100 d4i96HdHGY=Bz_FkL@baW3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IQ^zZJR;6LDB2C]Jd9dcF@0
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/Full_Adder_Always
+w1750064800
+8D:\Full_Adder_Always\full_adder_always.v
+FD:\Full_Adder_Always\full_adder_always.v
+!i122 0
+L0 1 8
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1750064805.000000
+!s107 D:\Full_Adder_Always\full_adder_always.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\Full_Adder_Always\full_adder_always.v|
+!i113 1
+o-work work
+tCvgOpt 0

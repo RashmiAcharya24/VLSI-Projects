@@ -1,0 +1,217 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/microcontroller_8bit
+vadder
+Z1 !s110 1752167674
+!i10b 1
+!s100 f:Lf_lJ>EN8ho[[83ZHCR1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+INLz[L44F@A]aSi=^7bC=J3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1751817486
+Z5 8adder.v
+Z6 Fadder.v
+!i122 48
+L0 1 7
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1752167673.000000
+Z9 !s107 adder.v|
+Z10 !s90 -reportprogress|300|adder.v|
+!i113 1
+Z11 tCvgOpt 0
+vALU
+!s110 1752167673
+!i10b 1
+!s100 2fcflP1^zgLNZ>MEMhNfK0
+R2
+Ii[cL=10Y=OXo9FLC7DlE71
+R3
+R0
+w1751816309
+8alu.v
+Falu.v
+!i122 47
+L0 2 51
+R7
+r1
+!s85 0
+31
+!s108 1752167672.000000
+!s107 alu.v|
+!s90 -reportprogress|300|alu.v|
+!i113 1
+R11
+n@a@l@u
+vControl_Logic
+!s110 1752166519
+!i10b 1
+!s100 S3PhO2382gnIDejZE7YK40
+R2
+IaMzKRd2N88f868Bg`4g`I2
+R3
+R0
+w1751816558
+8Control_Logic.v
+FControl_Logic.v
+!i122 37
+L0 1 84
+R7
+r1
+!s85 0
+31
+!s108 1752166518.000000
+!s107 Control_Logic.v|
+!s90 -reportprogress|300|Control_Logic.v|
+!i113 1
+R11
+n@control_@logic
+vDMem
+!s110 1752166521
+!i10b 1
+!s100 ;Hzc1eO9C2^aXIg87og?_3
+R2
+IJ6fY;gF7FfbD6mWb9l82Y3
+R3
+R0
+w1751816459
+8DMem.v
+FDMem.v
+!i122 38
+L0 1 16
+R7
+r1
+!s85 0
+31
+!s108 1752166520.000000
+!s107 DMem.v|
+!s90 -reportprogress|300|DMem.v|
+!i113 1
+R11
+n@d@mem
+vmcu_module_tb
+!s110 1752167675
+!i10b 1
+!s100 h_TZgb>E9j?h2W2?e<F<03
+R2
+IB`Zne;gZ`iN:=kkCiD:Ib0
+R3
+R0
+w1751817711
+8mcu_module_run.v
+Fmcu_module_run.v
+!i122 49
+L0 3 82
+R7
+r1
+!s85 0
+31
+!s108 1752167675.000000
+!s107 mcu_module_run.v|
+!s90 -reportprogress|300|+define+MUT_MUX1|mcu_module_run.v|
+!i113 1
+!s92 +define+MUT_MUX1
+R11
+vMCU_tb
+!s110 1752166526
+!i10b 1
+!s100 _hi]`do1ljJQX<DWZVFVR2
+R2
+IzkVOen^I1UX>ML:?6o1VF3
+R3
+R0
+w1751817875
+8microcontroller_tb.v
+Fmicrocontroller_tb.v
+!i122 41
+L0 1 23
+R7
+r1
+!s85 0
+31
+!s108 1752166525.000000
+!s107 microcontroller_tb.v|
+!s90 -reportprogress|300|microcontroller_tb.v|
+!i113 1
+R11
+n@m@c@u_tb
+vMicroController
+!s110 1752166524
+!i10b 1
+!s100 GMOU<E:RcGJCRASfT^]PR2
+R2
+IEY6eB_6[4dfecUgBm1M?_0
+R3
+R0
+w1751817420
+8MicroController.v
+FMicroController.v
+!i122 40
+L0 1 186
+R7
+r1
+!s85 0
+31
+!s108 1752166523.000000
+!s107 MicroController.v|
+!s90 -reportprogress|300|MicroController.v|
+!i113 1
+R11
+n@micro@controller
+vMUX1
+R1
+!i10b 1
+!s100 CEb3F>iaT=jWeV`Wa:LS`1
+R2
+IgU_zDk<KUaHeif`LfEFSY0
+R3
+R0
+R4
+R5
+R6
+!i122 48
+L0 8 7
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+n@m@u@x1
+vPMem
+!s110 1752166522
+!i10b 1
+!s100 _3IL_6ezUiPHX::6XTEPf3
+R2
+I;;CRU=a>gP4a4L0lhHS[^1
+R3
+R0
+w1751816658
+8PMem.v
+FPMem.v
+!i122 39
+L0 1 19
+R7
+r1
+!s85 0
+31
+!s108 1752166521.000000
+!s107 PMem.v|
+!s90 -reportprogress|300|PMem.v|
+!i113 1
+R11
+n@p@mem

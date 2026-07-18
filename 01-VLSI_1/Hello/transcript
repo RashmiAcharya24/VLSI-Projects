@@ -1,0 +1,9 @@
+# Compile of hello.v was successful.
+vsim -gui work.hello
+# vsim -gui work.hello 
+# Start time: 17:00:59 on Jun 15,2025
+# Loading work.hello
+run
+# Helllo Verilog!
+# End time: 17:03:37 on Jun 15,2025, Elapsed time: 0:02:38
+# Errors: 0, Warnings: 5

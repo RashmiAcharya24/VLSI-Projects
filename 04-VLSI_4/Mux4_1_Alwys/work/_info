@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Mux4_1_Alwys
+vMux4_1_Alwys
+Z1 !s110 1750238859
+!i10b 1
+!s100 976aEXZdhVBQg3K@BD;aE1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1Ge?bR>_H37nWWNX3nkRS3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1750238691
+8Mux4_1_Alwys.v
+FMux4_1_Alwys.v
+!i122 0
+L0 1 13
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1750238859.000000
+!s107 tb_Mux4_1_Alwys.v|Mux4_1_Alwys.v|
+Z6 !s90 -reportprogress|300|Mux4_1_Alwys.v|tb_Mux4_1_Alwys.v|
+!i113 1
+Z7 tCvgOpt 0
+n@mux4_1_@alwys
+vtb_Mux4_1_Alwys
+R1
+!i10b 1
+!s100 3zAN0j4Gb<VNma=Q9Ic9?3
+R2
+I9<@R6NQlWXjdd>WY<?DEL1
+R3
+R0
+w1750238717
+8tb_Mux4_1_Alwys.v
+Ftb_Mux4_1_Alwys.v
+!i122 0
+L0 1 26
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 tb_Mux4_1_Alwys.v|Mux4_1_Alwys.v|
+R6
+!i113 1
+R7
+ntb_@mux4_1_@alwys

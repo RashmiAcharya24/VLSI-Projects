@@ -1,0 +1,34 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vhello
+!s110 1749987047
+!i10b 1
+!s100 K3D1AMDPdk==;kjedKU=l3
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I<@4SOazZ<=>aN]mV=m_OQ1
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/New folder (2)
+w1749987041
+8D:\New folder (2)\hello.v
+FD:\New folder (2)\hello.v
+!i122 0
+L0 1 5
+OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1749987047.000000
+!s107 D:\New folder (2)\hello.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:\New folder (2)\hello.v|
+!i113 1
+o-work work
+tCvgOpt 0

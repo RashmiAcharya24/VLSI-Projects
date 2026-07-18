@@ -1,0 +1,8 @@
+D:/10_Bit_Counter/10_bit_counter.v {1 {vlog -work work -stats=none D:/10_Bit_Counter/10_bit_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}}

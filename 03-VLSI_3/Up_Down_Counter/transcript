@@ -1,0 +1,14 @@
+# Compile of up_down_counter.v was successful.
+vsim -gui work.up_down_counter
+# vsim -gui work.up_down_counter 
+# Start time: 16:40:54 on Jun 16,2025
+# Loading work.up_down_counter
+add wave -position insertpoint sim:/up_down_counter/*
+force -freeze sim:/up_down_counter/clk 1 0, 0 {50000 ps} -r 100ns
+force -freeze sim:/up_down_counter/reset 1 0, 0 {100000 ps} -r 200ns
+force -freeze sim:/up_down_counter/up_down 1 0, 0 {150000 ps} -r 300ns
+force -freeze sim:/up_down_counter/reset 1 0, 0 {100000 ps} -r 200ns
+run
+run
+# End time: 16:44:13 on Jun 16,2025, Elapsed time: 0:03:19
+# Errors: 0, Warnings: 5

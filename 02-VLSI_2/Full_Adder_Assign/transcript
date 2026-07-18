@@ -1,0 +1,13 @@
+# Compile of full_adder_always.v was successful.
+vsim -gui work.full_adder
+# vsim -gui work.full_adder 
+# Start time: 14:36:56 on Jun 16,2025
+# Loading work.full_adder
+add wave -position insertpoint sim:/full_adder/*
+force -freeze sim:/full_adder/a 1 0, 0 {50000 ps} -r 100ns
+force -freeze sim:/full_adder/b 1 0, 0 {100000 ps} -r 200ns
+force -freeze sim:/full_adder/cin 1 0, 0 {150000 ps} -r 300ns
+run
+run
+# End time: 14:40:34 on Jun 16,2025, Elapsed time: 0:03:38
+# Errors: 0, Warnings: 5
