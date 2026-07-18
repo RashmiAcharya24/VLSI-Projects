@@ -17,8 +17,9 @@ VLSI-Projects
 ├── 04-VLSI_4
 ├── 05-VLSI_5
 ├── 06-VLSI_6
-├── 07-Project1
-└── 08-Project2
+├── 07-VLSI_7
+├── 08-Project1
+└── 09-Project2
 ```
 
 ---
@@ -178,7 +179,30 @@ Concepts:
 
 ---
 
-# 07 - Project1
+# 07 - VLSI_7
+
+# 4-bit Parallel-In Serial-Out (PISO) Shift Register
+
+The 4-bit Parallel-In Serial-Out (PISO) shift register is a digital circuit that loads 4-bit parallel data when a load signal is asserted and then shifts the bits out serially on each clock pulse.
+
+## Features
+
+- 4-bit parallel data loading
+- Serial data output
+- Clock-controlled shifting
+- Load control operation
+
+## Concepts Covered
+
+- Shift registers
+- Sequential logic design
+- Data conversion techniques
+- Clock-based digital systems
+- RTL implementation
+
+---
+
+# 08 - Project1
 
 # 8-bit Microcontroller Design
 
@@ -202,7 +226,7 @@ A complete RTL based 8-bit microcontroller design.
 
 ---
 
-# 08 - Project2
+# 09 - Project2
 
 # SPI Communication Interface
 

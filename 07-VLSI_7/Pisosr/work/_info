@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/pisosr
+vpiso_shift_register
+Z1 !s110 1750610537
+!i10b 1
+!s100 zzZPC0P1Z_;oljMLmh]ej3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ie922lAm8zmQeV?aO2Bhnh2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1750607112
+8pisosr.v
+Fpisosr.v
+!i122 1
+L0 1 21
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1750610537.000000
+Z6 !s107 tb_pisosr.v|pisosr.v|
+Z7 !s90 -reportprogress|300|pisosr.v|tb_pisosr.v|
+!i113 1
+Z8 tCvgOpt 0
+vtb_piso_shift_register
+!s110 1750610333
+!i10b 1
+!s100 ]GGUGN`;M7Uc5K5SRfmGC2
+R2
+IzX3@4d^LI9P0aOjP=>Wz71
+R3
+R0
+w1750607166
+Z9 8tb_pisosr.v
+Z10 Ftb_pisosr.v
+!i122 0
+L0 1 33
+R4
+r1
+!s85 0
+31
+!s108 1750610332.000000
+R6
+R7
+!i113 1
+R8
+vtb_pisosr
+R1
+!i10b 1
+!s100 DWM2b[fVAQl5m>Ma8ae<l3
+R2
+IhJ<K5:kHFW2P8_1W6H8dL0
+R3
+R0
+w1750610485
+R9
+R10
+!i122 1
+L0 1 32
+R4
+r1
+!s85 0
+31
+R5
+R6
+R7
+!i113 1
+R8
